@@ -14,6 +14,12 @@ if __name__ == '__main__':
         if filename.endswith('.xml') or filename.endswith('.XML'):
             n_xmls += 1
 
+    if len(os.listdir(path)) == 0:
+    print("------------------------------------------------------------------------")
+    print("Sem arquivos XML para processamento. Programa finalizado.")
+    print("------------------------------------------------------------------------")
+    exit()
+
     print("------------------------------------------------------------------------")
     print(f"{n_xmls} NFe(s) encontrada(s).")
     print(f"Iniciando processamento de NFes.")
