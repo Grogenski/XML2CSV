@@ -82,7 +82,7 @@ crontab -e
 
 Para utilizar o projeto, siga as instruções abaixo:
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
+1. Clone o repositório: `git clone https://github.com/Grogenski/XML2CSV/tree/main`
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Execute o software: `python main.py`
 
