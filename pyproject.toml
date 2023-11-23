@@ -1,0 +1,25 @@
+[project]
+name = "PROJECT_XML_2_CSV"
+version = "1.0.0"
+authors = [
+    { name="Lucas Grogenski Meloca", email="pg55657@uem.br" },
+    { name="Jefter Leandro Polletti", email="pg55633@uem.br" },
+    { name="Deverson Rogerio Rando", email="pg55457@uem.br" },
+    { name="Betwel Zampieri Montanher", email="pg405266@uem.br" },
+]
+description = "O Projeto de Conversão de NFe para CSV é uma ferramenta desenvolvida em Python 3 que extrai informações de Notas Fiscais Eletrônicas (NFe) no formato XML, realiza cálculos de impostos, e converte os dados para um formato CSV. Ele inclui funcionalidades como o cálculo de impostos do Simples Nacional e da Reforma Tributária, além de consultar taxas de IVA em um arquivo CSV relacionado."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+'''
+[project.urls]
+Homepage =
+Issues =
+'''
+
+
