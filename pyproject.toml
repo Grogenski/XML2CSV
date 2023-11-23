@@ -1,5 +1,5 @@
 [project]
-name = "PROJECT_XML_2_CSV"
+name = "TaxService"
 version = "1.0.0"
 authors = [
     { name="Lucas Grogenski Meloca", email="pg55657@uem.br" },
