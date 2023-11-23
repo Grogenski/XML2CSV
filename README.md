@@ -1,6 +1,6 @@
 # Projeto de Conversão de NFe para CSV
 
-![Imagem de Capa](.det/xml-to-csv-1646x823.png)
+![Imagem de Capa](det/xml-to-csv-1646x823.png)
 
 [![Badge de Licença](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Badge de Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue.svg)](https://github.com/seu-usuario/seu-projeto)
@@ -116,7 +116,7 @@ Se você deseja contribuir para o projeto, siga os passos abaixo:
 
 - Caso não tenha familiaridade com o xml, sugerimos que veja como é a sua estrutura abaixo:
 
-![Infográfico](.det/Infografico_XML2min_354b9bb8-2d87-4bd7-9750-34755bd127b8.jpg)
+![Infográfico](det/Infografico_XML2min_354b9bb8-2d87-4bd7-9750-34755bd127b8.jpg)
 
 3. **Validações de nota**
 
