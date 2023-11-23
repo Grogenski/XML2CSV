@@ -1,5 +1,5 @@
 import os
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 import time
 import warnings
 from src.utils import CSVReader, CSVWriter, NFExtractor, TaxCalculator
