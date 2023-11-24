@@ -15,10 +15,10 @@ if __name__ == '__main__':
             n_xmls += 1
 
     if len(os.listdir(path)) == 0:
-    print("------------------------------------------------------------------------")
-    print("Sem arquivos XML para processamento. Programa finalizado.")
-    print("------------------------------------------------------------------------")
-    exit()
+        print("------------------------------------------------------------------------")
+        print("Sem arquivos XML para processamento. Programa finalizado.")
+        print("------------------------------------------------------------------------")
+        exit()
 
     print("------------------------------------------------------------------------")
     print(f"{n_xmls} NFe(s) encontrada(s).")
